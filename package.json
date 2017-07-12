@@ -1,0 +1,12 @@
+{
+  "name": "experiment-protractor",
+  "version": "1.0.0",
+  "description": "It's just a prototype for protractor.",
+  "main": "index.js",
+  "repository": "https://github.com/rebel-l/experiment-protractor.git",
+  "author": "Lars Gaubisch <lars.gaubisch@home24.de>",
+  "license": "MIT",
+  "dependencies": {
+    "protractor": "5.1.*"
+  }
+}
