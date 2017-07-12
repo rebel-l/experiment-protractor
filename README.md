@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This os just a prototype for protractor.
+This is just a prototype for protractor.
 
 
 # Requirements
