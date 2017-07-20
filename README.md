@@ -23,6 +23,12 @@ yarn install
 Afterwards get the webdriver installed with
 
 ```
+npm install -g webdriver-manager
+```
+
+Update the wedriver for new drivers like geckodriver
+
+```
 webdriver-manager update
 ```
 
