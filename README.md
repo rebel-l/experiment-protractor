@@ -47,7 +47,7 @@ _Ensure that the webdriver is running!_
 The tests can be simple executed by running
 
 ```
-./node_modules/.bin/protractor tests/tutorial/conf.js
+./node_modules/.bin/protractor tests/protractor//tutorial/conf.js
 ```
 
 
@@ -63,7 +63,7 @@ phantomjs --webdriver=9515
 Then as before just execute protractor
 
 ```
-./node_modules/.bin/protractor tests/phantomjs/conf.js 
+./node_modules/.bin/protractor tests/protractor/phantomjs/conf.js 
 ```
 
 
