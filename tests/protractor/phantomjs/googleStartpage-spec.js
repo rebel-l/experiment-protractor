@@ -3,7 +3,7 @@ let fs = require('fs');
 describe('check that start page has a title', function () {
     // execute before every test
     beforeEach(function () {
-        browser.ignoreSynchronization = true;
+        browser.ignoreSynchronization = true;   // Important using Protractor without AngularJS
         browser.get('https://www.google.de/');
     });
 
