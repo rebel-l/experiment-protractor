@@ -6,6 +6,9 @@
   "repository": "https://github.com/rebel-l/experiment-protractor.git",
   "author": "Lars Gaubisch <lars.gaubisch@home24.de>",
   "license": "MIT",
+  "engines": {
+    "node": ">=8.1.4"
+  },
   "dependencies": {
     "protractor": "5.1.*"
   }
