@@ -74,3 +74,14 @@ Protractor is looking for AngularJS by default. You can turn off that behaviour 
 ```javascript
 browser.ignoreSynchronization = true;
 ```
+
+## Trouble Shooting
+### Webdriver Error
+
+It can happen that the tests throws an exception when running with webdriver. Ensure that you have executed
+
+```
+webdriver-manager update
+```
+
+before you start the webdriver. Most problems I had so far were solved by that. 
